@@ -55,7 +55,6 @@ export default function Home() {
 
       <Header />
 
-      {/* Hero Section */}
       <section className="relative overflow-hidden pt-16 pb-12 sm:pt-20 sm:pb-16">
         <div className="absolute inset-0 bg-gradient-to-b from-pink-900/20 via-transparent to-dark-950" />
         <div className="absolute top-1/4 left-1/2 -translate-x-1/2 w-[400px] sm:w-[600px] h-[400px] sm:h-[600px] bg-pink-500/10 rounded-full blur-[100px] sm:blur-[120px]" />
@@ -67,8 +66,7 @@ export default function Home() {
           </div>
           
           <h1 className="text-3xl sm:text-4xl md:text-6xl lg:text-7xl font-black mb-3 leading-tight">
-            Swagat Hai Aapka <br />
-            <span className="gradient-text">Xypharon Ki Duniya</span> Mein
+            Welcome to <span className="gradient-text">Xypharon</span> Store
           </h1>
           <p className="text-dark-400 text-sm sm:text-lg md:text-xl max-w-2xl mx-auto mb-8 px-2">
             Device-specific sensitivity, optimized control layouts, pro thumbnail packs, and 1-on-1 coaching — everything you need to level up your BGMI game.
@@ -103,7 +101,6 @@ export default function Home() {
         </div>
       </section>
 
-      {/* Products */}
       <section className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
         <div className="mb-8">
           <h2 className="text-2xl sm:text-3xl md:text-4xl font-bold text-white">
@@ -119,7 +116,6 @@ export default function Home() {
         </div>
       </section>
 
-      {/* YouTube Banner */}
       <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 mt-10 mb-8">
         <a
           href="https://www.youtube.com/@Xypharon"
