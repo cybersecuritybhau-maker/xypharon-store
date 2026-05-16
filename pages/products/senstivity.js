@@ -11,7 +11,7 @@ const devices = [
   'Samsung Galaxy S24 Ultra', 'Samsung Galaxy S23 Ultra', 'Samsung Galaxy S22 Ultra',
   'Samsung Galaxy S21 Ultra', 'Samsung Galaxy S20 FE',
   'OnePlus 12', 'OnePlus 11', 'OnePlus 10 Pro', 'OnePlus 9 Pro', 'OnePlus Nord',
-  'iQOO 12', 'iQOO 11', 'iQOO Neo 9 Pro',
+  'iQOO Z10 Turbo Pro', 'iQOO Neo 10', 'iQOO 12', 'iQOO 11', 'iQOO Neo 9 Pro',
   'Vivo X100 Pro', 'Vivo V30 Pro',
   'Xiaomi 14 Pro', 'Redmi Note 13 Pro', 'Redmi Note 12 Pro', 'Redmi K50',
   'Realme GT 3', 'Realme GT 2 Pro', 'Realme 12 Pro+',
@@ -237,4 +237,4 @@ export default function SensitivityPage() {
       <Footer />
     </div>
   )
-                      }
+                                   }
